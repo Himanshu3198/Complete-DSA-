@@ -1,5 +1,5 @@
-# Complete-DSA-
-<h4>data structure and algorithms topics wise problems solution <h4/>
+# Complete-DSA
+<h4>Data Structure and Algorithms topics wise problems solution <h4/>
 
 | Topics | Repository Link |
 | --- | --- |
