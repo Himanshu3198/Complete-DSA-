@@ -1,5 +1,5 @@
 # Complete-DSA-
-list of all the data structure and algorithms topics wise problems solution
+list of the data structure and algorithms topics wise problems solution
 
 | Topics | Repository Link |
 | --- | --- |
