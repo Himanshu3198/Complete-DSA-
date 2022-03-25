@@ -12,3 +12,4 @@
 |7. Searching Sorting |https://github.com/Himanshu3198/Searching-And-Sorting-DSA-Series |
 |8. Greedy |https://github.com/Himanshu3198/Greedy-DSA-Series|
 |9. Linked List | https://github.com/Himanshu3198/Linked-List-DSA-Series |
+|10. Heap | https://github.com/Himanshu3198/Heap-DataStructure-DSA-Series |
