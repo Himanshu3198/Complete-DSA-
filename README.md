@@ -1,5 +1,5 @@
-# Complete DSA
-<h4>Data Structure and Algorithms topics wise problems solution <h4/>
+# DSA BY himanshu3198
+<h4>Data Structure And Algorithms Topics Wise Problems Solution <h4/>
 
 | Topics | Repository Link |
 | --- | --- |
