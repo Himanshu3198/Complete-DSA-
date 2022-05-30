@@ -1,4 +1,4 @@
-# DSA BY himanshu3198
+# DSA By himanshu3198
 <h4>Data Structure And Algorithms Topics Wise Problems Solution <h4/>
 
 | Topics | Repository Link |
