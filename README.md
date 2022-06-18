@@ -17,6 +17,8 @@
 |13. Heap | https://github.com/Himanshu3198/Heap-DataStructure-DSA-Series |
 |14. Binary Tree |https://github.com/Himanshu3198/Binary-tree-DSA-Series|
 |15. Binary Search Tree |https://github.com/Himanshu3198/Binary-Search-Tree-BST-DSA-Series|
+|16. Dynamic Programming |https://github.com/Himanshu3198/Dynamic-Programming-DSA-Series|
+
 
 
   
